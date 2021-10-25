@@ -31,7 +31,11 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 - **Some photo records**:
 
-  <img src="../images/Model_1.jpg" style="zoom: 25%;" />
+  ```
+  <center><img src="../images/Model_1.png" width="600"/>
+  <br/>
+  System architecture</center>
+  ```
 
 - 
 
