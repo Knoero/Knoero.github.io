@@ -68,8 +68,8 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Managed to let the dynamic threshold follow the torque curve well in certain operating conditions while the required dynamic threshold varied greatly in different operating conditions.
   - Made the conclusion that constant parameters were not sufficient for an accurate threshold and implemented basic algorithms of **recursive least square estimation (RLSE)** for parameter estimation when operating.
 
-<center><img src="../assets/images/2_1.png" alt="image" width="600" /><center>
-<center>One example of the dynamic thresholds on six joints<center>
+<center><img src="../assets/images/2_1.png" alt="image" width="600" /></center>
+<center>One example of the dynamic thresholds on six joints</center>
 
 
 
@@ -95,11 +95,11 @@ Here is a list of research works I've participated in during my undergraduate gr
 
   <center><img src="../assets/images/Vehicle_Speed.png" alt="image" width="600" />
   <br/> One succesful implementation result of PSoC strategy, desired performance
-  <center>
+  </center>
 
 <center><img src="../assets/images/pos.png" alt="image" width="600" />
 <br/> Finally located abnormal vibrations in previous failed implementations
-<center>
+</center>
 
 
 
