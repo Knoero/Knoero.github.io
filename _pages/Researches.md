@@ -66,9 +66,10 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Managed to let the dynamic threshold follow the torque curve well in certain operating conditions while the required dynamic threshold varied greatly in different operating conditions.
   - Made the conclusion that constant parameters were not sufficient for an accurate threshold and implemented basic algorithms of **recursive least square estimation (RLSE)** for parameter estimation when operating.
 
-<center><img src="../assets/images/2_1.PNG" alt="image" width="600" />
-<br/> One example of the dynamic thresholds on six joints
-<center>
+<center><img src="../assets/images/2_1.PNG" alt="image" width="600" /><center>
+<center>One example of the dynamic thresholds on six joints<center>
+
+
 
 ## Hybrid Electric Vehicle Control
 
@@ -112,4 +113,4 @@ Here is a list of research works I've participated in during my undergraduate gr
   - The traverse system is now being brought to reality in Zucrow Lab by faculties working there.
 - **Final Presentation**
 
-<iframe src="https://Knoero.github.io/files/FDR_report.pdf" width="700" height="400"></iframe>
+<iframe src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="500"></iframe>
