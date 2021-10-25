@@ -16,7 +16,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 - **Project Type**: Undergraduate research program of Mechanical Engineering in SJTU.
 
-- **Goal**: Trying to verify and reproduce the result of [a research paper from IEEE]([3D through-wall imaging with unmanned aerial vehicles using wifi | Proceedings of the 16th ACM/IEEE International Conference on Information Processing in Sensor Networks](https://dl.acm.org/doi/10.1145/3055031.3055084)).
+- **Goal**: Trying to verify and reproduce the result of [a research paper from IEEE](https://dl.acm.org/doi/10.1145/3055031.3055084).
 
 - **Supervisor**: *[Prof. Weiwei Cai](https://scholar.google.com/citations?user=4mYjOrsAAAAJ&hl=en)*, Associate professor in Institute of Turbomachinery of SJTU.
 
@@ -31,11 +31,22 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 - **Some photo records**:
 
-  ```
-  <center><img src="../images/Model_1.png" width="600"/>
-  <br/>
-  System architecture</center>
-  ```
+  - Different models used to test the algorithms
 
-- 
+  <p align ="middle">
+      <img src="../assets/images/Model_1.jpg" alt="image" width="200" />
+      <img src="../assets/images/Model_2.jpg" alt="image" width="225" />
+  </p>
+
+  
+
+  - Pre-designed flight path for each UAV
+
+    <img src="../assets/images/Test_path.PNG" alt="image" width="520" />
+
+- **Results**
+
+  - Due to lack of sensors, no position feedback algorithms were used. The positions of UAV could only be automated controlled by open-loop systems. Manually controlling the UAVs was required to ensure the two UAVs arrive at the correctly corresponding positions.
+  - Using the data collected by controlling the UAVs manually, two 2D images which are close to the projections are created successfully.
+  - Due to time limitation of the research project, no digital 3D models were built.
 
