@@ -117,6 +117,6 @@ Here is a list of research works I've participated in during my undergraduate gr
   - The traverse system is now being brought to reality in Zucrow Lab by faculties working there.
 - **Final Presentation**
 
-<center><embed src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="650" 
- type="application/pdf"></iframe></center>
+<center><embed src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="600" 
+ type="application/pdf"></center>
 
