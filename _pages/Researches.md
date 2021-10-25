@@ -8,9 +8,9 @@ title:  "Research Works"
 permalink: /researches/
 ---
 
-## Description
-
 Here is a list of research works I've participated in during my undergraduate graduate study and graduate study.
+
+[TOC]
 
 ## 3D Through-wall Imaging With Unmanned Aerial Vehicles Using WIFI
 
@@ -42,7 +42,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
   - Pre-designed flight path for each UAV
 
-    <img src="../assets/images/Test_path.PNG" alt="image" width="520" />
+    <center><img src="../assets/images/Test_path.PNG" alt="image" width="520" /><center>
 
 - **Results**
 
