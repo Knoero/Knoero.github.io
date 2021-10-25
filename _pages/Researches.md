@@ -6,6 +6,8 @@ classes: wide
 title:  "Research Works" 
 
 toc: true
+toc_label: "List of Research Works"
+toc_sticky: true
 
 permalink: /researches/
 ---
