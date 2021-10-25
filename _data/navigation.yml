@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "WROK"
-    url: /work/
-  - title: "RESOURECE"
+  - title: "Research Work"
+    url: /research/
+  - title: "Resource"
     url: /resource/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
