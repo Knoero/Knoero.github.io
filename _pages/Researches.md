@@ -66,7 +66,7 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Managed to let the dynamic threshold follow the torque curve well in certain operating conditions while the required dynamic threshold varied greatly in different operating conditions.
   - Made the conclusion that constant parameters were not sufficient for an accurate threshold and implemented basic algorithms of **recursive least square estimation (RLSE)** for parameter estimation when operating.
 
-<center><img src="../assets/images/2_1.PNG" alt="image" width="600" /><center>
+<center><img src="../assets/images/2_1.png" alt="image" width="600" /><center>
 <center>One example of the dynamic thresholds on six joints<center>
 
 
@@ -91,11 +91,11 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Proved the feasibilities by comparing their results with the minimization benchmark in simulation.
   - Located the abnormal vibration in previous implementations by tracking the data flow and proposed to fix the data collector at at the acceleration pedal for successful implementation.
 
-  <center><img src="../assets/images/Vehicle_Speed.PNG" alt="image" width="600" />
+  <center><img src="../assets/images/Vehicle_Speed.png" alt="image" width="600" />
   <br/> One succesful implementation result of PSoC strategy, desired performance
   <center>
 
-<center><img src="../assets/images/pos.PNG" alt="image" width="600" />
+<center><img src="../assets/images/pos.png" alt="image" width="600" />
 <br/> Finally located abnormal vibrations in previous failed implementations
 <center>
 
@@ -113,4 +113,5 @@ Here is a list of research works I've participated in during my undergraduate gr
   - The traverse system is now being brought to reality in Zucrow Lab by faculties working there.
 - **Final Presentation**
 
-<iframe src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="500"></iframe>
+<iframe src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="700"></iframe>
+
