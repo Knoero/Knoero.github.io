@@ -91,7 +91,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 - **Results**
 
   - Proved the feasibilities by comparing their results with the minimization benchmark in simulation.
-  - Located the abnormal vibration in previous implementations by tracking the data flow and proposed to fix the data collector at at the acceleration pedal for successful implementation.
+  - Located the abnormal vibration in previous implementations by tracking the data flow and proposed to fix the data collector at the acceleration pedal for successful implementation.
 
   <center><img src="../assets/images/Vehicle_Speed.png" alt="image" width="600" />
   <br/> One succesful implementation result of PSoC strategy, desired performance
@@ -117,5 +117,6 @@ Here is a list of research works I've participated in during my undergraduate gr
   - The traverse system is now being brought to reality in Zucrow Lab by faculties working there.
 - **Final Presentation**
 
-<iframe src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="700"></iframe>
+<center><embed src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="650" 
+ type="application/pdf"></iframe></center>
 
