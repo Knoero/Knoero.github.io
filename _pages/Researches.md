@@ -5,12 +5,12 @@ classes: wide
 
 title:  "Research Works" 
 
+toc: true
+
 permalink: /researches/
 ---
 
 Here is a list of research works I've participated in during my undergraduate graduate study and graduate study.
-
-[TOC]
 
 ## 3D Through-wall Imaging With Unmanned Aerial Vehicles Using WIFI
 
