@@ -52,6 +52,8 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Using the data collected by controlling the UAVs manually, two 2D images which were close to the projections were created successfully.
   - Due to time limitation of the research project, no digital 3D models were built.
 
+
+
 ## Robust Proprioceptive Robot Impact Design
 
 - **Project Type**: Summer Internship in SJTU Robotics Lab. Jun 2019 - Aug 2019.
@@ -98,6 +100,8 @@ Here is a list of research works I've participated in during my undergraduate gr
 <center><img src="../assets/images/pos.png" alt="image" width="600" />
 <br/> Finally located abnormal vibrations in previous failed implementations
 <center>
+
+
 
 ## Design of an annular traverse system for Zucrow Lab of Purdue
 
