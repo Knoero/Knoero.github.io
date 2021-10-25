@@ -12,6 +12,6 @@ author_profile: true
 
 **Hello world**, this is my first Jekyll blog post. I hope you like it!
 
-<embed src="https://github.com/Knoero/MachineLearning/blob/master/0%20Prerequisite/00%20Introduction.pdf" width="500" height="375" 
+<embed src="https://Knoero.github.io/files/00%20Introduction.pdf" width="500" height="375" 
  type="application/pdf">
 
