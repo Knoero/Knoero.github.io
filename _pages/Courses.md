@@ -12,11 +12,11 @@ permalink: /courses/
 
 ## Description
 
-Here is the list of courses I've attended which are related to my current research interests.
+Here is a list of selected courses I've attended which are related to my current research interests.
 
 ## Undergraduate in Shanghai Jiao Tong University
 
-Here are the courses I've taken in the first three years in SJTU (Jun 2016 - Jun 2019).
+Here are some selected courses I've taken in the first three years in SJTU (Jun 2016 - Jun 2019).
 
 - ME 113: Principles and Practice Using C++ (A)
 - ES 004: Electronic System Design Based on Android System (A)
@@ -27,7 +27,7 @@ Here are the courses I've taken in the first three years in SJTU (Jun 2016 - Jun
 
 ## Exchange Undergraduate in Purdue University
 
-Here are the courses I've taken in the last year of my undergraduate study as an international exchange student in Purdue University (Aug 2019 - May 2020).
+Here are some selected courses I've taken in the last year of my undergraduate study as an international exchange student in Purdue University (Aug 2019 - May 2020).
 
 - ME 563: Mechanical Vibration (A+)
 - ME 581:Numerical Methods in Mechanical Engineering (A+)
@@ -37,7 +37,7 @@ Here are the courses I've taken in the last year of my undergraduate study as an
 
 ## Graduate in Purdue University
 
-Here are the courses I've taken as a graduate student in Purdue University (Aug 2020 - present).
+Here are some selected courses I've taken as a graduate student in Purdue University (Aug 2020 - present).
 
 - ECE 570: Artificial Intelligence (A)
 - MA 527: Advanced Mathematics for Engineers (A)
