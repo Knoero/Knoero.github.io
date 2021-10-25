@@ -16,7 +16,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## 3D Through-wall Imaging With Unmanned Aerial Vehicles Using WIFI
 
-- **Project Type**: Undergraduate research program of Mechanical Engineering in SJTU. Feb 2018 - Oct 2018.
+**Feb 2018 - Oct 2018	Undergraduate research program of Mechanical Engineering in SJTU**
 
 - **Goal**: Verify and reproduce the result of [a research paper from IEEE](https://dl.acm.org/doi/10.1145/3055031.3055084).
 
@@ -56,7 +56,8 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Robust Proprioceptive Robot Impact Design
 
-- **Project Type**: Summer Internship in SJTU Robotics Lab. Jun 2019 - Aug 2019.
+**Jun 2019 - Aug 2019	Summer Internship in SJTU Robotics Lab**
+
 - **Goal**: Find a dynamic threshold for torques of every joint in the 6-DOF old industry robot arm (only the current intensities were available).
 - **Supervisor**: *[Jianhua Wu](https://me.sjtu.edu.cn/en/FullTimeTeacher/wujianhua.html)*, Associate Professor in Robotics Lab of SJTU.
 - **Main Tools**: MATLAB, SIMULINK.
@@ -75,7 +76,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Hybrid Electric Vehicle Control
 
-- **Project Type**: Undergraduate research program of Mechanical Engineering at Purdue University. Sep 2019 - May 2020.
+**Sep 2019 - May 2020** 	**Undergraduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Successfully implement the **Equivalent Consumption Minimization Strategy (ECMS)** and **Partial State of Charge (PSoC)** controlling strategy to a hybrid electric vehicle control.
 
@@ -93,19 +94,18 @@ Here is a list of research works I've participated in during my undergraduate gr
   - Proved the feasibilities by comparing their results with the minimization benchmark in simulation.
   - Located the abnormal vibration in previous implementations by tracking the data flow and proposed to fix the data collector at the acceleration pedal for successful implementation.
 
-  <center><img src="../assets/images/Vehicle_Speed.png" alt="image" width="600" />
-  <br/> One succesful implementation result of PSoC strategy, desired performance
-  </center>
+- **Semester Report**
 
-<center><img src="../assets/images/pos.png" alt="image" width="600" />
-<br/> Finally located abnormal vibrations in previous failed implementations
-</center>
+  <center><embed src="https://Knoero.github.io/files/HEV_report.pdf" width="800" height="600" 
+   type="application/pdf"></center>
 
 
 
-## Design of an annular traverse system for Zucrow Lab of Purdue
 
-- **Project Type**: Project for capstone course of Mechanical Engineering at Purdue University. Jan 2020 - May 2020.
+## Design Of Annular Traverse System For Zucrow Lab Of Purdue
+
+**Jan 2020 - May 2020**	**Project for capstone course of Mechanical Engineering at Purdue University**
+
 - **Goal**: Design a unique and relatively cheap annular traverse system for the wind tunnel in Zucrow Lab of Purdue, which requires the traverse system to have high resolutions and the ability to withstand high temperature and air pressure while preventing air leakage.
 - **Supervisor**: *[Guilermo Paniagua](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=113506)*, Professor of Mechanical Engineering, and Professor of Aeronautics & Astronautics (by Courtesy).
 - **Main Tools**: Solidworks.
@@ -119,4 +119,31 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 <center><embed src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="600" 
  type="application/pdf"></center>
+
+## UAV Obstacle Avoidance And Collaboration With Autonomous Boats
+
+**Jul 2021 - present	Graduate research program of Mechanical Engineering at Purdue University**
+
+- **Goal**: Build the programs for vision-based obstacle avoidance for UAVs and test collaborations with autonomous boats.
+- **Supervisor**: *[Nina Mahmoudian](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078)*, Associate Professor of Mechanical Engineering.
+- **Main Tools**: ROS, Gazebo, Python
+- **Responsibilities**
+  - Develop the vision-based obstacle avoidance algorithms and simulate it on a quadcopter in Gazebo.
+  - Implement it on a real quadcopter.
+  - Develop the algorithms for collaborative work with autonomous boats.
+- **Results**
+  - This program is still in progress.
+
+## Geometric Optimization In Computer Aided Design
+
+**Aug 2021 - present**	**Graduate research program of Mechanical Engineering at Purdue University**
+
+- **Goal**: Obtain precise descriptions with parameters from hand-sketches and then optimize these parameters for design objectives.
+- **Supervisor**:  *[Karthik Ramani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331)*, Donald W. Feddersen Distinguished Professor in Mechanical Engineering, Professor of Electrical and Computer Engineering, Professor of Educational Studies, College of Education (by courtesy)
+- **Main Tools**: Python
+- **Responsibilities**
+  - Implement B-spline fitting for free curves, including resampling and determining orders of the curves based on input sketches.
+  - Optimize the obtained description with parameters for assigned design objectives.
+- **Results**
+  - This program is still in progress.
 
