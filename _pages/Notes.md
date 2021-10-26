@@ -69,7 +69,7 @@ The study notes are taken from multiple sources, including course notes in Purdu
   - This note and all the following notes are waiting to be written. Here are only the draft titles and structures.
 
 - **Unsupervised Dimensionality Reduction via PCA**
-- **K-Nearest Neighbors **
+- **K-Nearest Neighbors**
 - **Clustering Using K-Means**
 - **Density Estimation Using Gaussian Mixtures**
 - **Gaussian Process Regression**
