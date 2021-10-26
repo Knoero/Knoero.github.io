@@ -102,7 +102,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 
 
-## Design Of Annular Traverse System For Zucrow Lab Of Purdue
+## Design of Annular Traverse System for Zucrow Lab of Purdue
 
 **Jan 2020 - May 2020**		**Project for capstone course of Mechanical Engineering at Purdue University**
 
@@ -120,7 +120,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 <center><embed src="https://Knoero.github.io/files/FDR_report.pdf" width="800" height="600" 
  type="application/pdf"></center>
 
-## UAV Obstacle Avoidance And Collaboration With Autonomous Boats
+## UAV Obstacle Avoidance and Collaboration with Autonomous Boats
 
 **Jul 2021 - Present		Graduate research program of Mechanical Engineering at Purdue University**
 
@@ -134,7 +134,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 - **Results**
   - This program is still in progress.
 
-## Geometric Optimization In Computer Aided Design
+## Geometric Optimization in Computer Aided Design
 
 **Aug 2021 - Present**		**Graduate research program of Mechanical Engineering at Purdue University**
 
