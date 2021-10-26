@@ -98,6 +98,6 @@ The study notes are taken from multiple sources, including course notes in Purdu
 
 ### Table of Contents
 
-- [ROS Quick Review Notes](https://knoero.github.io/files/Others/00%20ROS%20Quick%20Review%20Notes.pdf)
+- **[ROS Quick Review Notes](https://knoero.github.io/files/Others/00%20ROS%20Quick%20Review%20Notes.pdf)**
   - Simple notes about ROS concepts and usage for a quick reference.
 
