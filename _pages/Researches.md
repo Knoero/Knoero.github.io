@@ -16,7 +16,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## 3D Through-wall Imaging With Unmanned Aerial Vehicles Using WIFI
 
-**Feb 2018 - Oct 2018	Undergraduate research program of Mechanical Engineering in SJTU**
+**Feb 2018 - Oct 2018		Undergraduate research program of Mechanical Engineering in SJTU**
 
 - **Goal**: Verify and reproduce the result of [a research paper from IEEE](https://dl.acm.org/doi/10.1145/3055031.3055084).
 
@@ -56,7 +56,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Robust Proprioceptive Robot Impact Design
 
-**Jun 2019 - Aug 2019	Summer Internship in SJTU Robotics Lab**
+**Jun 2019 - Aug 2019		Summer Internship in SJTU Robotics Lab**
 
 - **Goal**: Find a dynamic threshold for torques of every joint in the 6-DOF old industry robot arm (only the current intensities were available).
 - **Supervisor**: *[Jianhua Wu](https://me.sjtu.edu.cn/en/FullTimeTeacher/wujianhua.html)*, Associate Professor in Robotics Lab of SJTU.
@@ -76,7 +76,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Hybrid Electric Vehicle Control
 
-**Sep 2019 - May 2020** 	**Undergraduate research program of Mechanical Engineering at Purdue University**
+**Sep 2019 - May 2020** 		**Undergraduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Successfully implement the **Equivalent Consumption Minimization Strategy (ECMS)** and **Partial State of Charge (PSoC)** controlling strategy to a hybrid electric vehicle control.
 
@@ -104,7 +104,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Design Of Annular Traverse System For Zucrow Lab Of Purdue
 
-**Jan 2020 - May 2020**	**Project for capstone course of Mechanical Engineering at Purdue University**
+**Jan 2020 - May 2020**		**Project for capstone course of Mechanical Engineering at Purdue University**
 
 - **Goal**: Design a unique and relatively cheap annular traverse system for the wind tunnel in Zucrow Lab of Purdue, which requires the traverse system to have high resolutions and the ability to withstand high temperature and air pressure while preventing air leakage.
 - **Supervisor**: *[Guilermo Paniagua](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=113506)*, Professor of Mechanical Engineering, and Professor of Aeronautics & Astronautics (by Courtesy).
@@ -122,7 +122,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## UAV Obstacle Avoidance And Collaboration With Autonomous Boats
 
-**Jul 2021 - present	Graduate research program of Mechanical Engineering at Purdue University**
+**Jul 2021 - Present		Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Build the programs for vision-based obstacle avoidance for UAVs and test collaborations with autonomous boats.
 - **Supervisor**: *[Nina Mahmoudian](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078)*, Associate Professor of Mechanical Engineering.
@@ -136,7 +136,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 ## Geometric Optimization In Computer Aided Design
 
-**Aug 2021 - present**	**Graduate research program of Mechanical Engineering at Purdue University**
+**Aug 2021 - Present**		**Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Obtain precise descriptions with parameters from hand-sketches and then optimize these parameters for design objectives.
 - **Supervisor**:  *[Karthik Ramani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331)*, Donald W. Feddersen Distinguished Professor in Mechanical Engineering, Professor of Electrical and Computer Engineering, Professor of Educational Studies, College of Education (by courtesy)
