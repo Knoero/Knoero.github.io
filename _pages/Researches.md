@@ -80,7 +80,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 
 - **Goal**: Successfully implement the **Equivalent Consumption Minimization Strategy (ECMS)** and **Partial State of Charge (PSoC)** controlling strategy to a hybrid electric vehicle control.
 
-- **Supervisor**: *[Peter Meckl](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=11427)*, Assistant Head for Facilities and Operations, and Professor of Mechanical Engineering.
+- **Supervisor**: *[Peter Meckl](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=11427)*, Assistant Head for Facilities and Operations, and Professor of Mechanical Engineering at Purdue University.
 
 - **Main Tools**: MATLAB, SIMULINK.
 
@@ -107,7 +107,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 **Jan 2020 - May 2020**		**Project for capstone course of Mechanical Engineering at Purdue University**
 
 - **Goal**: Design a unique and relatively cheap annular traverse system for the wind tunnel in Zucrow Lab of Purdue, which requires the traverse system to have high resolutions and the ability to withstand high temperature and air pressure while preventing air leakage.
-- **Supervisor**: *[Guilermo Paniagua](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=113506)*, Professor of Mechanical Engineering, and Professor of Aeronautics & Astronautics (by Courtesy).
+- **Supervisor**: *[Guilermo Paniagua](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=113506)*, Professor of Mechanical Engineering, and Professor of Aeronautics & Astronautics (by Courtesy) at Purdue University.
 - **Main Tools**: Solidworks.
 - **Responsibilities**
   - Modify and make decisions for the final detailed design, including manufacturing methods or sources of supply.
@@ -125,7 +125,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 **Jul 2021 - Present		Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Build the programs for vision-based obstacle avoidance for UAVs and test collaborations with autonomous boats.
-- **Supervisor**: *[Nina Mahmoudian](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078)*, Associate Professor of Mechanical Engineering.
+- **Supervisor**: *[Nina Mahmoudian](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078)*, Associate Professor of Mechanical Engineering at Purdue University.
 - **Main Tools**: ROS, Gazebo, Python
 - **Responsibilities**
   - Develop the vision-based obstacle avoidance algorithms and simulate it on a quadcopter in Gazebo.
@@ -139,7 +139,7 @@ Here is a list of research works I've participated in during my undergraduate gr
 **Aug 2021 - Present**		**Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**: Obtain precise descriptions with parameters from hand-sketches and then optimize these parameters for design objectives.
-- **Supervisor**:  *[Karthik Ramani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331)*, Donald W. Feddersen Distinguished Professor in Mechanical Engineering, Professor of Electrical and Computer Engineering, Professor of Educational Studies, College of Education (by courtesy)
+- **Supervisor**:  *[Karthik Ramani](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331)*, Donald W. Feddersen Distinguished Professor in Mechanical Engineering, Professor of Electrical and Computer Engineering, Professor of Educational Studies, College of Education (by courtesy) at Purdue University.
 - **Main Tools**: Python
 - **Responsibilities**
   - Implement B-spline fitting for free curves, including resampling and determining orders of the curves based on input sketches.
