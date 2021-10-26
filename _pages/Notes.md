@@ -6,7 +6,7 @@ classes: wide
 
 title:  "Study Notes" 
 
-permalink: /notess/
+permalink: /notes/
 
 ---
 
