@@ -2,12 +2,12 @@
 main:
   - title: "Researches"
     url: /researches/
+  - title: "CV"
+    url: /files/CV.pdf
   - title: "Courses"
     url: /courses/
   - title: "Study Notes"
     url: /notes/
-  - title: "CV"
-    url: /files/CV.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
