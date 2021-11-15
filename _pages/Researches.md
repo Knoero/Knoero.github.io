@@ -3,16 +3,16 @@ layout: single
 
 classes: wide
 
-title:  "Research Works" 
+title:  "Selected Research Works" 
 
 toc: true
-toc_label: "List of Research Works"
+toc_label: "Selected Research Works"
 toc_sticky: true
 
 permalink: /researches/
 ---
 
-Here is a list of research works I've participated in during my undergraduate graduate study and graduate study.
+Here is a list of selected research works I've participated in during my undergraduate graduate study and graduate study.
 
 ## UAV Obstacle Avoidance and Collaboration with Autonomous Boats
 
