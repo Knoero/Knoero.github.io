@@ -141,7 +141,7 @@ Here is a list of selected research works I've participated in during my undergr
   <center><embed src="https://Knoero.github.io/files/HEV_report.pdf" width="800" height="600" 
    type="application/pdf"></center>
 
-## Robust Proprioceptive Robot Impact Design
+## Robust Proprioceptive Robot Impact Detection
 
 **Jun 2019 - Aug 2019,		Summer Internship in SJTU Robotics Lab**
 
