@@ -27,11 +27,11 @@ Here is a list of selected research works I've participated in during my undergr
   - Gazebo
   - Python
 - **Responsibilities**
-  - Develop the vision-based obstacle avoidance algorithms and simulate it on a quadcopter in Gazebo.
-  - Implement it on a real quadcopter.
-  - Develop the algorithms for collaborative work with autonomous boats.
+  - Develop and implement a vision-based obstacle avoidance algorithm for a quadcopter in forests.
+  - Develop collaborative work with autonomous boats such as guiding the boats when necessary.
 - **Results**
-  - This program is still in progress.
+  - Set up the ROS simulation environment including UAV model and basic movement controller.
+  - Tested several collision avoidance algorithms in different Gazebo worlds.
 
 ## Geometric Optimization in Computer Aided Design
 
