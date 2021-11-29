@@ -71,7 +71,7 @@ Here is a list of selected research works I've participated in during my undergr
 
 **Jan 2020 - May 2020,**		**Project for capstone course of Mechanical Engineering at Purdue University**
 
-- **Goal**: 
+- **Goal**
 
   - Design a unique and relatively cheap annular traverse system for the wind tunnel in Zucrow Lab of Purdue, which requires the traverse system to have high resolutions and the ability to withstand high temperature and air pressure while preventing air leakage.
 
@@ -113,11 +113,11 @@ Here is a list of selected research works I've participated in during my undergr
 
 **Sep 2019 - May 2020,** 		**Undergraduate research program of Mechanical Engineering at Purdue University**
 
-- **Goal**: 
+- **Goal**
 
   - Successfully implement the **Equivalent Consumption Minimization Strategy (ECMS)** and **Partial State of Charge (PSoC)** controlling strategy to a hybrid electric vehicle control.
 
-- **Supervisor**: 
+- **Supervisor**
 
   - *[Peter Meckl](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=11427)*, Assistant Head for Facilities and Operations, and Professor of Mechanical Engineering at Purdue University.
 
