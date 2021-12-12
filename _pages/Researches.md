@@ -60,7 +60,7 @@ Here is a list of selected research works I've participated in during my undergr
 
   - Given a fixed number of control points, solved for the optimization problem so that the reconstruction error is minimized by placing the control points.
 
-  - For an arbitrary curve after segmentation of the sketch interface, constructed the workflow to find the optimal number of control points using machine learning methods, from generating the spline dataset to designing the training and validation processes.
+  - For an arbitrary curve from segmentation of the sketch interface, constructed the workflow to find the optimal number of control points using machine learning methods, from generating the spline dataset to designing the training and validation processes.
 
     <center><img src="../assets/images/samples.png" alt="image" width="800" /></center>
     <center>Samples from the generated dataset</center>
