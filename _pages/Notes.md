@@ -46,7 +46,7 @@ The study notes are taken from multiple sources, including course notes in Purdu
   - Main concepts and examples of object-oriented python, what many of today's software tools for deep learning are based on.
 - **[Numerical Optimization](https://knoero.github.io/files/0_Prerequisites/04%20Numerical%20Optimization.pdf)**
   - Introduction to convexity, optimization and several gradient descent methods.
-- **[AutoGrad in PyTorch](https://knoero.github.io/files/0_Prerequisites/04%20Numerical%20Optimization.pdf)**
+- **[AutoGrad in PyTorch](https://knoero.github.io/files/0_Prerequisites/05%20AutoGrad%20in%20PyTorch.pdf)**
   - Brief introduction to Tensor in PyTorch, automatic differentiation theory, how to use AutoGrad in Pytorch and two simple examples.
 - **[Statistical Functionality in Python](https://knoero.github.io/files/0_Prerequisites/06%20Statistical%20Functionality%20in%20Python.pdf)**
   - Some commonly used statistical methods which are useful tools for analyzing data in machine learning.
