@@ -16,7 +16,7 @@ Here is a list of selected research works I've participated in during my undergr
 
 ## UAV Obstacle Avoidance and Collaboration with Autonomous Boats
 
-**Jul 2021 - Present,		Graduate research program of Mechanical Engineering at Purdue University**
+**Jul 2021 - Jan 2022,		Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**
   - Build the programs for vision-based obstacle avoidance for UAVs and test collaborations with autonomous boats.
@@ -35,7 +35,7 @@ Here is a list of selected research works I've participated in during my undergr
 
 ## Geometric Optimization in Computer Aided Design
 
-**Aug 2021 - Present,**		**Graduate research program of Mechanical Engineering at Purdue University**
+**Aug 2021 - Jan 2022,**		**Graduate research program of Mechanical Engineering at Purdue University**
 
 - **Goal**
 
