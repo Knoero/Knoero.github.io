@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Zihao Xu / 徐子皓"
   avatar           : "/assets/images/IMG_3428.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master Student in Mechanical Engineering at Purdue University"
-  location         : "West Lafayette, Indiana"
+  bio              : "Stay hungry. Stay foolish."
+  location         : "Shanghai, China"
   email            : "xu1376@purdue.edu"
   links:
     # - label: "Email"
