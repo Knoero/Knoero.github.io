@@ -13,4 +13,4 @@ In my major field, I've received valuable research experience and built a solid 
 
 I've been compiling my own study notes for all of the Machine Learning and Deep Learning knowledge I've gathered since becoming familiar with the theories and algorithms. I haven't finished it, but I'll keep working on it in my spare time.
 
-The fascinating and promising intersection between control, optimization, and machine learning is one of my main research interests. For more detailed information, please refer to my latest [CV](https://knoero.github.io/files/CV.pdf).
+The fascinating and promising intersection between control, optimization, and machine learning is one of my main research interests. I'm also open to a wide range of challenging research topics where I can further develop my multi-disciplinary research abilities. For more detailed information, please refer to my latest [CV](https://knoero.github.io/files/CV.pdf).
