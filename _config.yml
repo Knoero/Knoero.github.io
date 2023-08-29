@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Zihao Xu / 徐子皓"
-  avatar           : "/assets/images/IMG_3428.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Stay hungry. Stay foolish."
+  avatar           : "/assets/images/IMG_3428.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ph.D. Student"
   location         : "Shanghai, China"
   email            : "knoeroxu@gmail.com"
   links:
