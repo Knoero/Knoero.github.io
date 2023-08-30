@@ -4,8 +4,6 @@ main:
     url: /researches/
   - title: "CV"
     url: /files/CV.pdf
-  - title: "Courses"
-    url: /courses/
   - title: "Study Notes"
     url: /notes/
   # - title: "About"

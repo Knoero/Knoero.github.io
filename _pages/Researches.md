@@ -7,12 +7,12 @@ title:  "Selected Research Works"
 
 toc: true
 toc_label: "Selected Research Works"
-toc_sticky: true
+toc_float: true
 
 permalink: /researches/
 ---
 
-Here is a list of selected research works I've participated in during my undergraduate graduate study and graduate study.
+Here is a list of selected research work I've participated before joining Maha.
 
 ## UAV Obstacle Avoidance and Collaboration with Autonomous Boats
 
@@ -65,8 +65,6 @@ Here is a list of selected research works I've participated in during my undergr
     <center><img src="../assets/images/samples.png" alt="image" width="800" /></center>
     <center>Samples from the generated dataset</center>
 
-  - This project is uploaded to [Github](https://github.com/Knoero/BSplineFitting).
-
 ## Design of Annular Traverse System for Zucrow Lab of Purdue
 
 **Jan 2020 - May 2020,**		**Project for capstone course of Mechanical Engineering at Purdue University**
@@ -116,30 +114,21 @@ Here is a list of selected research works I've participated in during my undergr
 - **Goal**
 
   - Successfully implement the **Equivalent Consumption Minimization Strategy (ECMS)** and **Partial State of Charge (PSoC)** controlling strategy to a hybrid electric vehicle control.
-
 - **Supervisor**
 
   - *[Peter Meckl](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=11427)*, Assistant Head for Facilities and Operations, and Professor of Mechanical Engineering at Purdue University.
-
 - **Main Tools**
 
   - MATLAB
   - SIMULINK
-
 - **Responsibility**
 
   - Debug the ECMS and PSoC algorithms in SIMULINK and check their feasibilities.
   - Reason the failures of previous implementations of ECMS and PSoC.
-
 - **Results**
 
   - Proved the feasibilities by comparing their results with the minimization benchmark in simulation.
   - Located the abnormal vibration in previous implementations by tracking the data flow and proposed to fix the data collector at the acceleration pedal for successful implementation.
-
-- **Semester Report**
-
-  <center><embed src="https://Knoero.github.io/files/HEV_report.pdf" width="800" height="600" 
-   type="application/pdf"></center>
 
 ## Robust Proprioceptive Robot Impact Detection
 
